@@ -39,7 +39,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 ## Contato
 
 Seu Nome - Quemoel Barros Silva)
-E-mail: Quemoel Barros Silva
+E-mail: Quemoelb@gmail.com
 LinkedIn: www.linkedin.com/in/quemoel-barros
 
 
